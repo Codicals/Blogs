@@ -1,3 +1,3 @@
 ## This is practice blog
 
-undefined
+So this is my practice blog.
