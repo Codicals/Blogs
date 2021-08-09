@@ -1,6 +1,9 @@
 ## Emotional Embedding: Emotional Content of Words
 
 
+![happy-faces-5049095_640.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1628510886363/NR7QKcIsg.png)
+
+
 > BY- ***Prasant Kumar***
 
 Word Embeddings are one of the most useful tools in any modern Natural Language Processing expert’s toolkit. They contain various types of information about each word which makes them the best way to represent the terms in any NLP task. But there are some types of information that cannot be learned by these models. <br>
