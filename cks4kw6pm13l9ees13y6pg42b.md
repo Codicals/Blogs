@@ -35,7 +35,7 @@ To decrease the angular distance between similar emotions and increase the dista
 
 We want the pairs of words in positive relation set to get closer together<br>
 So the ***objective function for positive relations*** would be: <br>
-P R(V') = (u,w)∈S max(0,d(V' <sub>u</sub>,V'<sub>w</sub>))
+P R(V') = (u,w)∈S max(0,d(V' <sub>u</sub>,V'<sub>w</sub>))<br>
 where d(v' <sub>u</sub>,v'<sub>w</sub>) is the cosine distance between the two vectors.
 
  And we want to increase the distance between pairs of words in our negative relation set, so the ***objective function for the negative relations *** would be: <br>
